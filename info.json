@@ -1,0 +1,10 @@
+{
+ "name": "Technology_Tree_Overhaul",
+ "version": "0.0.1",
+ "title": "Technology Tree Overhaul",
+ "author": "ETK03",
+ "contact": "ETK03#3416",
+ "homepage": "",
+ "description": "This mod changes the vanilla technology tree to unlock each item individually",
+ "factorio_version": "1.1"
+ }
